@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mrromanalekseev
 - 👀 I’m OpenToWork
 - 🌱 I’m currently in React development for 1 year
-- 💞️ I’m looking to collaborate on React Native projects
-- 📫 mrromanalekseev@gmail.com or telegram @Hugo_Dev
+- 💞️ I’m looking for Project Manager position
+- 📫 mrromanalekseev@gmail.com or telegram @vikingmusik
 
 <!---
 mrromanalekseev/mrromanalekseev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
