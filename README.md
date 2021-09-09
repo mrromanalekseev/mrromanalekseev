@@ -1,8 +1,8 @@
 
 - 👀 
-Open to work as a Junior Software Developer or as a Project Manager! Dear friends, In July this year I survived from Covid-19 I was almost dead. I was in the hospital. Please help me to find new position and change my life. I really appreciate your help!!! my telegram @itpythonist
+Open to work as a Junior Software Developer or as a Project Manager! Dear friends, In July this year I survived from Covid-19 I was almost dead. I was in the hospital. Please help me to find new position and change my life. I really appreciate your help!!! my telegram @Hugo_Dev
 
-In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Kamasutra (Development of a social network based on React) Convinced pythonist.
+In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Kamasutra (Development of a social network based on React) 
 
 I graduated from Andrews University Michigan USA branch BA in English. I have recommendations from US private schools and from Professor Hawkins UK, who is personally acquainted with Her Majesty The Queen of GB.
 
@@ -18,6 +18,6 @@ I am fond of fitness. Certified as a rescuer by the American Red Cross.
 
 visit my github https://github.com/mrromanalekseev 
 email: mrromanalekseev@gmail.com
-telegram @itpythonist
+telegram @Hugo_Dev
 
 
