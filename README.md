@@ -1,4 +1,4 @@
-Dear friends, In July this year I survived from Covid-19. I was almost dead. I was in the hospital. Please help me to find new position and change my life. I am open to work as a Junior Software Developer or as a Project Manager! I really appreciate your help! my telegram @Hugo_Dev
+I am open to work! Junior Devops Engineer / Junior Software Developer 
 
 In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Kamasutra (Development of a social network based on React) 
 
