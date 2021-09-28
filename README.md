@@ -1,5 +1,7 @@
 I am open to work! Junior Devops Engineer / Junior Software Developer 
 
+At the moment, I'm pumping my Python and delving into DevOps. I am learning new very, very quickly! Recently completed an introductory course from Atlassian Agile Product Manager.
+
 In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Kamasutra (Development of a social network based on React) 
 
 I graduated from Andrews University Michigan USA branch BA in English. I have recommendations from US private schools and from Professor Hawkins UK, who is personally acquainted with Her Majesty The Queen of GB.
