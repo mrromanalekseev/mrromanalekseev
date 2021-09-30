@@ -1,5 +1,5 @@
 Open to work as a Junior Cloud & Devops Engineer / Junior Software Developer / Project Manager
-I live in Russia now but I am Nordic. At the moment, I'm pumping my Python and delving into DevOps. I am very interested in Cloud technologies. I am learning new very, very quickly!
+I live in Russia now but I am Nordic. I am open to new opportunities and relocation. At the moment, I'm pumping my Python and delving into DevOps. I am very interested in Cloud technologies. I am learning new very, very quickly!
 
 In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Kamasutra (Development of a social network based on React). Recently completed an introductory course from Atlassian Agile Product Manager.
 I graduated from Andrews University Michigan USA branch
