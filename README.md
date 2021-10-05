@@ -1,4 +1,13 @@
 Open to work as a Junior Cloud & Devops Engineer / Junior Software Developer / Project Manager
+def fibonacci(x):
+    if x == 0:
+        return 0
+    elif x == 1:
+        return 1
+    else:
+        return fibonacci(x-1) + fibonacci(x-2)
+
+print(fibonacci(x=int(input('Input number to count fibonacci number: '))))
 
 I live in Russia now but I am Nordic. I am open to new opportunities and relocation. At the moment, I'm pumping my Python and delving into DevOps(Today I know Docker!). I am very interested in Cloud technologies. I am learning new very, very quickly!
 
