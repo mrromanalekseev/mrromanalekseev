@@ -1,6 +1,7 @@
 Open to work as a Junior Cloud & Devops Engineer / Junior Software Developer / Project Manager
 
 def fibonacci(x):
+    
     if x == 0:
         return 0
     elif x == 1:
