@@ -1,6 +1,7 @@
 Open to work as a Junior Cloud & Devops Engineer / Junior Software Developer / Project Manager
 
 sudo groupadd Programmers
+
 sudo usermod -aG Programmers programmer1
 
 def fibonacci(x):
