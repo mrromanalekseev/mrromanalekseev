@@ -28,6 +28,13 @@ For family reasons, I had to leave leadership positions, return to the North of 
 
 Single. Nordic character. Love fitness. Open to new opportunities and relocation. I am fond of fitness. Viking sagas and myths of ancient Greece. Certified as a lifeguard by the American Red Cross.
 
+Geek Brains 2021 (Python, Frontend)
+IT Canada 2021 (Linux, Bash, Docker, Ansible, Jenkins) 
+Entering October 2021 EPAM University (remote) 
+Cloud & Devops Engineer 
+2008 British Airways Academy London
+2002 Andrews University Michigan USA
+
 visit my github https://github.com/mrromanalekseev 
 email: mrromanalekseev@gmail.com
-telegram @Hugo_Dev
+telegram @Hugo_Hermes
