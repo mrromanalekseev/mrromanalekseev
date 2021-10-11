@@ -32,7 +32,7 @@ For family reasons, I had to leave leadership positions, return to the North of 
 Single. Nordic character. Love fitness. Open to new opportunities and relocation. I am fond of fitness. Viking sagas and myths of ancient Greece. Certified as a lifeguard by the American Red Cross.
 
 
-ITCANADA2021 (Linux, Bash, Docker, Ansible, Jenkins, Google Cloud, Kubernetes) 
+DevOps ITCANADA2021 (Linux, Bash, Docker, Ansible, Jenkins, Google Cloud, Kubernetes) 
 Geek Brains 2021 (Python, Frontend)
 2008 British Airways Academy London
 2002 Andrews University Michigan USA
