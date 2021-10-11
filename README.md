@@ -1,21 +1,21 @@
 Open to work as a Junior Cloud & Devops Engineer / Junior Software Developer / Project Manager
 
 sudo groupadd Programmers
-
 sudo usermod -aG Programmers programmer1
 
+ansible all -m yum “name=httpd state=latest” -b
+ansible all -m service -a “name=httpd state=started enabled=yes” -b
+
 def fibonacci(x):
-    
     if x == 0:
         return 0
     elif x == 1:
         return 1
     else:
         return fibonacci(x-1) + fibonacci(x-2)
-
 print(fibonacci(x=int(input('Input number to count fibonacci number: '))))
 
-I live in Russia now but I am Nordic. I am open to new opportunities and relocation. I am learning DevOps (Linux, Python, Ansible, Jenkins, Docker). I'm entering the middle course Cloud & Devops Engineer at EPAM University. I study quickly. Very interested in Cloud technologies, Linux administration.
+I live in Russia now but I am Nordic. I am open to new opportunities and relocation. I am learning DevOps ITCANADA2021(Linux, Python, Ansible, Jenkins, Docker). I study quickly. Very interested in Cloud technologies, Linux administration.
 
 In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Kamasutra (Development of a social network based on React). Recently completed an introductory course from Atlassian Agile Product Manager. 
 
@@ -28,10 +28,9 @@ For family reasons, I had to leave leadership positions, return to the North of 
 
 Single. Nordic character. Love fitness. Open to new opportunities and relocation. I am fond of fitness. Viking sagas and myths of ancient Greece. Certified as a lifeguard by the American Red Cross.
 
+
+ITCANADA2021 (Linux, Bash, Docker, Ansible, Jenkins) 
 Geek Brains 2021 (Python, Frontend)
-IT Canada 2021 (Linux, Bash, Docker, Ansible, Jenkins) 
-Entering October 2021 EPAM University (remote) 
-Cloud & Devops Engineer 
 2008 British Airways Academy London
 2002 Andrews University Michigan USA
 
