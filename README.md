@@ -1,4 +1,4 @@
-Open to work as a Junior Cloud & Devops Engineer / Junior Software Developer / Project Manager
+Open to work as a Junior Cloud & Devops Engineer / Linux Systems Administrator / Product Manager.
 
 sudo groupadd Programmers
 
@@ -18,7 +18,7 @@ def fibonacci(x):
         
 print(fibonacci(x=int(input('Input number to count fibonacci number: '))))
 
-I live in Russia now but I am Nordic. I am open to new opportunities and relocation. I am learning DevOps ITCANADA2021(Linux, Python, Ansible, Jenkins, Docker, Google Cloud, Kubernetes). I study quickly. Very interested in Cloud technologies, Linux administration.
+I live in Russia now but I am Nordic. I am open to new opportunities and relocation. I am learning DevOps ITCANADA2021(Linux, Bash, Ansible, Jenkins, Docker, Google Cloud, Kubernetes). I study quickly. Very interested in Cloud technologies, Linux administration.
 
 In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Kamasutra (Development of a social network based on React). Recently completed an introductory course from Atlassian Agile Product Manager. 
 
