@@ -1,9 +1,11 @@
 Open to work as a Junior Cloud & Devops Engineer / Junior Software Developer / Project Manager
 
 sudo groupadd Programmers
+
 sudo usermod -aG Programmers programmer1
 
 ansible all -m yum “name=httpd state=latest” -b
+
 ansible all -m service -a “name=httpd state=started enabled=yes” -b
 
 def fibonacci(x):
