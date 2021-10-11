@@ -15,6 +15,7 @@ def fibonacci(x):
         return 1
     else:
         return fibonacci(x-1) + fibonacci(x-2)
+        
 print(fibonacci(x=int(input('Input number to count fibonacci number: '))))
 
 I live in Russia now but I am Nordic. I am open to new opportunities and relocation. I am learning DevOps ITCANADA2021(Linux, Python, Ansible, Jenkins, Docker, Google Cloud, Kubernetes). I study quickly. Very interested in Cloud technologies, Linux administration.
