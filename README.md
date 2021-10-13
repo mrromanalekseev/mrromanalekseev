@@ -27,11 +27,11 @@ BA in English. I have recommendations from US private schools and from Professor
 
 I lived, worked, studied in the USA, England, France, Europe, Asia. I have work experience in England London in a key position of Premium Team Executive British Airways (Service Control of Premium Service Moscow-Europe-USA), as well as in Moscow as a Business Development Manager Center of Economic Planning Moscow (Interaction with chambers of commerce of America and Europe.) When I was a student I worked in Hollywood as an assistant director.
 
-For family reasons, I had to leave leadership positions, return to the North of Russia, where I participated as a co-founder in Start-up opening of ESL school. Also I worked in Car Sales. Certified specialist for Hyundai 2021 (Master of Sales) and Renault 2016 (Master of Sales).
+For family reasons, I had to leave leadership positions, return to the North of Russia, where I participated as a co-founder in Start-up (ESL school opening). Also I worked in Car Sales. Certified specialist for Hyundai 2021 (Master of Sales) and Renault 2016 (Master of Sales).
 
-Single. Nordic character. Love fitness. Open to new opportunities and relocation. I am fond of fitness. Viking sagas and myths of ancient Greece. Certified as a lifeguard by the American Red Cross.
+Single. Nordic character. Love fitness. Open to new opportunities and relocation. I am fond of fitness. Viking sagas and myths of ancient Greece. Certified as a lifeguard by American Red Cross.
 
-
+Roman Alekseev
 DevOps ITCANADA2021 (Linux, Bash, Docker, Ansible, Jenkins, Google Cloud, Kubernetes) 
 Geek Brains 2021 (Python, Frontend)
 2008 British Airways Academy London
