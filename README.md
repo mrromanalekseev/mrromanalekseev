@@ -1,4 +1,4 @@
-Open to work as a Junior Cloud & Devops Engineer / Linux Systems Administrator / Product Manager.
+Open to work as a Junior Cloud & Devops Engineer / Product Manager.
 
 sudo groupadd Programmers
 
