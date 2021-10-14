@@ -1,11 +1,13 @@
-Open to work as a Junior Cloud & Devops Engineer / Product Manager.
+Open to work as a Junior Cloud & Devops Engineer / Linux Systems Administrator / Product Manager.
+
+Open to new opportunities. Half completed the course DevOps ITCanada2021 Mastered Linux, Bash, Docker, Ansible Getting started with Jenkins, Google Cloud, Kubernetes. I study very fast. Interested in Cloud Technologies.
+
+In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Belarus (1 -year development of non-commercial student social network based on React). Also I completed Atlassian Agile Product Manager course. 
 
 sudo groupadd Programmers
-
 sudo usermod -aG Programmers programmer1
 
 ansible all -m yum “name=httpd state=latest” -b
-
 ansible all -m service -a “name=httpd state=started enabled=yes” -b
 
 def fibonacci(x):
@@ -18,22 +20,18 @@ def fibonacci(x):
         
 print(fibonacci(x=int(input('Input number to count fibonacci number: '))))
 
-I live in Russia now but I am Nordic. I am open to new opportunities and relocation. I am learning DevOps ITCANADA2021(Linux, Bash, Ansible, Jenkins, Docker, Google Cloud, Kubernetes). I study quickly. Very interested in Cloud technologies, Linux administration.
-
-In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Kamasutra (Development of a social network based on React). Recently completed an introductory course from Atlassian Agile Product Manager. 
-
 I graduated from Andrews University Michigan USA branch
 BA in English. I have recommendations from US private schools and from Professor Hawkins UK, who is personally acquainted with Her Majesty The Queen of GB.
 
-I lived, worked, studied in the USA, England, France, Europe, Asia. I have work experience in England London in a key position of Premium Team Executive British Airways (Service Control of Premium Service Moscow-Europe-USA), as well as in Moscow as a Business Development Manager Center of Economic Planning Moscow (Interaction with chambers of commerce of America and Europe.) When I was a student I worked in Hollywood as an assistant director.
+I lived, worked, studied in the USA, England, France, Europe, Asia. I have work experience in England London in a key position of Premium Team Executive British Airways (Service Control of Premium Service Moscow-Europe-USA), as well as in Moscow as a Business Development Manager Center of Economic Planning Moscow (Interaction with chambers of commerce of America and Europe.) 
 
-For family reasons, I had to leave leadership positions, return to the North of Russia, where I participated as a co-founder in Start-up (ESL school opening). Also I worked in Car Sales. Certified specialist for Hyundai 2021 (Master of Sales) and Renault 2016 (Master of Sales).
+For family reasons I returned to the North of Russia, where I participated as a co-founder in Start-up (ESL school opening). I worked in Car Sales. Certified specialist for Hyundai 2021 (Master of Sales) and Renault 2016 (Master of Sales).
 
-Single. Nordic character. Love fitness. Open to new opportunities and relocation. I am fond of fitness. Viking sagas and myths of ancient Greece. Certified as a lifeguard by American Red Cross.
+Single. Nordic character. Love fitness. Surfing and Diving. Viking sagas and myths of ancient Greece.  Certified as a lifeguard by the American Red Cross.
 
-Roman Alekseev
 DevOps ITCANADA2021 (Linux, Bash, Docker, Ansible, Jenkins, Google Cloud, Kubernetes) 
-Geek Brains 2021 (Python, Frontend)
+Geek Brains 2021 (Python, QA, Frontend)
+It-Belarus 2020 (1 -year development of non-commercial student social network based on React). 
 2008 British Airways Academy London
 2002 Andrews University Michigan USA
 
