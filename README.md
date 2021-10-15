@@ -1,4 +1,4 @@
-Open to work as a Junior Cloud & Devops Engineer / Linux Systems Administrator / Product Manager.
+Open to work as a Junior Cloud & Devops Engineer.
 
 Open to new opportunities. Half completed the course DevOps ITCanada2021 Mastered Linux, Bash, Docker, Ansible Getting started with Jenkins, Google Cloud, Kubernetes. I study very fast. Interested in Cloud Technologies.
 
