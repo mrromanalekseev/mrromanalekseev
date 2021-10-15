@@ -2,7 +2,7 @@ Open to work as a Junior Cloud & Devops Engineer / Linux Systems Administrator /
 
 Open to new opportunities. Half completed the course DevOps ITCanada2021 Mastered Linux, Bash, Docker, Ansible Getting started with Jenkins, Google Cloud, Kubernetes. I study very fast. Interested in Cloud Technologies.
 
-In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Belarus (1 -year development of non-commercial student social network based on React). Also I completed Atlassian Agile Product Manager course. 
+In 2019-2021 I took several it courses: GeekBrains University Moscow (QA, Python, Frontend Javascript, React, React Native), It-Belarus (1 -year development of non-commercial student social network based on React). Also I completed Atlassian Agile Product Manager course. 
 
 sudo groupadd Programmers
 sudo usermod -aG Programmers programmer1
