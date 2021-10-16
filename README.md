@@ -1,8 +1,8 @@
-Open to work as a Junior Cloud & Devops Engineer.
+Open to work as a Junior DevOps Cloud Engineer
 
-Open to new opportunities. Half completed the course DevOps ITCanada2021 Mastered Linux, Bash, Docker, Ansible Getting started with Jenkins, Google Cloud, Kubernetes. I study very fast. Interested in Cloud Technologies.
+Open to new opportunities. I am finishing Junior DevOps Cloud Engineer course ITCanada2021( Linux, Bash, Docker, Jenkins, Google Cloud, Kubernetes). Study very fast. Interested in Cloud Technologies.
 
-In 2019-2021 I took several it courses: GeekBrains University Moscow (QA, Python, Frontend Javascript, React, React Native), It-Belarus (1 -year development of non-commercial student social network based on React). Also I completed Atlassian Agile Product Manager course. 
+In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Belarus (1 -year development of non-commercial student social network based on React). Also I completed Atlassian Agile Product Manager course. 
 
 sudo groupadd Programmers
 sudo usermod -aG Programmers programmer1
@@ -29,7 +29,7 @@ For family reasons I returned to the North of Russia, where I participated as a 
 
 Single. Nordic character. Love fitness. Surfing and Diving. Viking sagas and myths of ancient Greece.  Certified as a lifeguard by the American Red Cross.
 
-DevOps ITCANADA2021 (Linux, Bash, Docker, Ansible, Jenkins, Google Cloud, Kubernetes) 
+DevOps ITCANADA2021 (Linux, Bash, Docker, Ansible, Jenkins, Google Cloud, K8s) 
 Geek Brains 2021 (Python, QA, Frontend)
 It-Belarus 2020 (1 -year development of non-commercial student social network based on React). 
 2008 British Airways Academy London
