@@ -1,4 +1,4 @@
-Open to work as a Junior DevOps Cloud Engineer
+Open to work as a QA Engineer / Junior DevOps Engineer 
 
 Open to new opportunities. I am finishing Junior DevOps Cloud Engineer course ITCanada2021( Linux, Bash, Docker, Jenkins, Google Cloud, Kubernetes). Study very fast. Interested in Cloud Technologies.
 
