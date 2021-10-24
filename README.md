@@ -1,6 +1,6 @@
 Open to work as a QA Engineer / Junior DevOps Engineer 
 
-Open to new opportunities. I am finishing Junior DevOps Cloud Engineer course ITCanada2021( Linux, Bash, Docker, Jenkins, Google Cloud, Kubernetes). Study very fast. Interested in Cloud Technologies.
+Open to new opportunities. I am finishing Junior DevOps Cloud Engineer course ADV-IT (Canada 2021): Linux, Bash, Docker, Jenkins, Google Cloud, Kubernetes. I learn new technologies quickly and efficiently I'm interested in Cloud technologies and testing (Selenium, Postman, SoapUI)
 
 In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Belarus (1 -year development of non-commercial student social network based on React). Also I completed Atlassian Agile Product Manager course. 
 
@@ -29,7 +29,7 @@ For family reasons I returned to the North of Russia, where I participated as a 
 
 Single. Nordic character. Love fitness. Surfing and Diving. Viking sagas and myths of ancient Greece.  Certified as a lifeguard by the American Red Cross.
 
-DevOps ITCANADA2021 (Linux, Bash, Docker, Ansible, Jenkins, Google Cloud, K8s) 
+DevOps ADV-IT CANADA 2021 (Linux, Bash, Docker, Ansible, Jenkins, Google Cloud, K8s) 
 Geek Brains 2021 (Python, QA, Frontend)
 It-Belarus 2020 (1 -year development of non-commercial student social network based on React). 
 2008 British Airways Academy London
