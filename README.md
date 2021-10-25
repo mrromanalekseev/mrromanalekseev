@@ -30,7 +30,7 @@ In Hollywood (California) I worked as an assistant director for Disaster drill m
 
 This is past now I would like to grow as a QA Engineer / Junior DevOps Engineer 
 
-Single. Nordic character. Love fitness. Surfing and Diving. Viking sagas and myths of ancient Greece.  Certified as a lifeguard by the American Red Cross.
+Single. Nordic character. Love fitness. Surfing and Diving. Viking sagas and myths of ancient Greece.  Certified as a lifeguard by American Red Cross.
 
 DevOps ADV-IT CANADA 2021 (Linux, Bash, Docker, Ansible, Jenkins, Google Cloud, K8s) 
 Geek Brains 2021 (Python, QA, Frontend)
