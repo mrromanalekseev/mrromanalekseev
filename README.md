@@ -1,6 +1,6 @@
 Open to work as a QA Engineer / Junior DevOps Engineer 
 
-Open to new opportunities. I am finishing Junior DevOps Cloud Engineer course ADV-IT (Canada 2021): Linux, Bash, Docker, Jenkins, Google Cloud, Kubernetes. I learn new technologies quickly and efficiently I'm interested in Cloud technologies and testing (Selenium, Postman, SoapUI)
+Open to new opportunities. I am finishing Junior DevOps Cloud Engineer course ADV-IT (Canada 2021): Linux, Bash, Docker, Jenkins, Google Cloud, K8s. I learn new technologies quickly and efficiently I'm interested in Cloud technologies and testing (Selenium, Postman, SoapUI)
 
 In 2019-2021 I took several it courses: GeekBrains University Moscow (Testing, Python, Frontend Javascript, React, React Native), It-Belarus (1 -year development of non-commercial student social network based on React). Also I completed Atlassian Agile Product Manager course. 
 
