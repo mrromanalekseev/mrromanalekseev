@@ -20,12 +20,15 @@ def fibonacci(x):
         
 print(fibonacci(x=int(input('Input number to count fibonacci number: '))))
 
-I graduated from Andrews University Michigan USA branch
-BA in English. I have recommendations from US private schools and from Professor Hawkins UK, who is personally acquainted with Her Majesty The Queen of GB.
+I graduated from Andrews University Michigan USA. (TOP 10 Universities in America)  BA in English. I have recommendations from American private schools and from my personal teacher and friend Professor Hawkins Great Britain. Her Majesty The Queen of Great Britain awarded him with a special letter for his achievements in teaching.
 
-I lived, worked, studied in the USA, England, France, Europe, Asia. I have work experience in England London in a key position of Premium Team Executive British Airways (Service Control of Premium Service Moscow-Europe-USA), as well as in Moscow as a Business Development Manager Center of Economic Planning Moscow (Interaction with chambers of commerce of America and Europe.) 
+I graduated from British Airways Academy and worked as a Premium Team Executive in British Airways (Premium Service Supervision on route Europe - America). I worked for Royal family members and British VIPs (for example Beckham family and others)
 
-For family reasons I returned to the North of Russia, where I participated as a co-founder in Start-up (ESL school opening). I worked in Car Sales. Certified specialist for Hyundai 2021 (Master of Sales) and Renault 2016 (Master of Sales).
+As a Business Development Manager I worked for Center of Economic Planning Moscow (Interaction with Chambers of Commerce of America and Europe.) 
+
+In Hollywood (California) I worked as an assistant director for Disaster drill movie.
+
+This is past now I would like to grow as a QA Engineer / Junior DevOps Engineer 
 
 Single. Nordic character. Love fitness. Surfing and Diving. Viking sagas and myths of ancient Greece.  Certified as a lifeguard by the American Red Cross.
 
