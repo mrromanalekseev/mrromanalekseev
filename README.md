@@ -67,7 +67,7 @@ My key skills in TESL
 - Collaboration 
 - Open to new opportunities and relocation
 
-DevOps ADV-IT (CANADA)
+DevOps ADV-IT (CANADA) <br>
 Geek Brains University (Python, QA, Frontend)
 It-Belarus (1 -year development of non-commercial student social network based on React).
 British Airways Academy Great Britain
