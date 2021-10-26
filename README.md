@@ -68,8 +68,8 @@ My key skills in TESL
 - Open to new opportunities and relocation
 
 DevOps ADV-IT (CANADA) <br>
-Geek Brains University (Python, QA, Frontend)
-It-Belarus (1 -year development of non-commercial student social network based on React).
-British Airways Academy Great Britain
-Andrews University Michigan United States
+Geek Brains University (Python, QA, Frontend) <br>
+It-Belarus (1 -year development of non-commercial student social network based on React) <br>
+British Airways Academy Great Britain <br>
+Andrews University Michigan United States <br>
 TESL International Michigan United States
