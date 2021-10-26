@@ -17,7 +17,7 @@ Key skills in DevOps
 - Practice of working with modern Agile software development techniques
 - Knowledge of Python, Javascript, React, React Native languages
 - Basics of organizing continuous integration and code delivery (CI / CD) processes
-- Ability to use the command line (Linux, Bush)
+- Ability to use the command line (Linux, Bash)
 - Fundamentals of Linux Server Administration
 - Knowledge of Git and Github
 - Google Cloud Basics
