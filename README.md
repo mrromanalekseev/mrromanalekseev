@@ -1,6 +1,5 @@
 Engineer
 Company GeekBrains Apprenticeship
-Dates EmployedSep 2019 – Present
 
 Engineer + (education, training, apprenticeship)
 - I know the process of creating programs not from outside but from inside (programming, testing, release)
